@@ -1,10 +1,15 @@
 # Restaurant
 Restaurant Website
+
+
+
 Languages And Technologies Used:                                                                                                                                                          
 
 (HTML , CSS , JavaScript, Bootstrap, JQuery , Python and Django framework).
 ----------------------------------------------------------------------------------------------------------
 Timeline Plan :
+
+
 Completion Of Front-End Design By 5/4/2020.
 
 
